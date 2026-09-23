@@ -52,6 +52,7 @@ The application allows users to:
 
 ---
 
+
 ## 3. Gemini Integration
 
 The application uses Firebase AI Logic to communicate with Gemini.
@@ -62,3 +63,9 @@ Firebase configuration is provided through:
 
 ```text
 google-services.json
+
+
+<img width="249" height="578" alt="Screenshot 2026-09-23 105237" src="https://github.com/user-attachments/assets/25d4f249-e1cf-437f-966c-0698588adbca" />
+
+<img width="174" height="362" alt="Screenshot 2026-09-23 102715" src="https://github.com/user-attachments/assets/847524a7-ab83-48d2-a026-c83fff89f475" />
+
