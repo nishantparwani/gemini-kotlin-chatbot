@@ -52,6 +52,10 @@ The application allows users to:
 
 ---
 
+<img width="249" height="578" alt="Screenshot 2026-09-23 105237" src="https://github.com/user-attachments/assets/2a8aa6ac-6642-4658-8b24-09e8e6308e98" />
+
+
+<img width="174" height="362" alt="Screenshot 2026-09-23 102715" src="https://github.com/user-attachments/assets/e873b019-917c-43b8-8aaa-9a16c239952a" />
 
 ## 3. Gemini Integration
 
@@ -65,7 +69,5 @@ Firebase configuration is provided through:
 google-services.json
 
 
-<img width="249" height="578" alt="Screenshot 2026-09-23 105237" src="https://github.com/user-attachments/assets/25d4f249-e1cf-437f-966c-0698588adbca" />
 
-<img width="174" height="362" alt="Screenshot 2026-09-23 102715" src="https://github.com/user-attachments/assets/847524a7-ab83-48d2-a026-c83fff89f475" />
 
